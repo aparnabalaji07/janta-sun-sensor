@@ -1,0 +1,13 @@
+# Secrets. Never commit WiFi passwords or AWS keys.
+secrets.h
+.env
+
+# Build output
+build/
+*.bin
+*.elf
+*.out
+
+# Editor and computer files
+.vscode/
+.DS_Store
