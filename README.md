@@ -8,6 +8,9 @@ We are building a clip-on calibration tool for Janta solar trackers. Two photodi
 
 We test on a small rotating panel built by the mechanical team.
 
+## Getting started
+Start with [getting started/setup guide](docs/getting-started.md) to get everything set up.
+
 ## Targets
 
 - Accuracy within 5 degrees
@@ -43,4 +46,4 @@ The ratio does not change when overall brightness changes, like when a cloud pas
 
 ## Workflow
 
-Every change starts from an issue, goes on its own branch, and gets merged through a pull request after one review. See CONTRIBUTING.md.
+Every change starts from an issue, goes on its own branch, and gets merged through a pull request after one review. See [CONTRIBUTING.md](CONTRIBUTING.md).
