@@ -11,3 +11,4 @@ build/
 # Editor and computer files
 .vscode/
 .DS_Store
+.Rhistory
